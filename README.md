@@ -14,7 +14,9 @@
       <li>
         4.6
         django 설치후
-        templates 폴더를 생성해주었다 이 폴더에 들어있는 html 파일이 웹 화면에 출력된다 (아마도)  그리고 이 생성된 폴더의 html 파일을 활용하기위해서는 se_pro/setting.py 파일의 코드를 수정해주어야한다
+        templates 폴더를 생성해주었다 이 폴더에 들어있는 html 파일이 웹 화면에 출력된다 (아마도)  
+        
+        그리고 이 생성된 폴더의 html 파일을 활용하기위해서는 se_pro/setting.py 파일의 코드를 수정해주어야한다
         <pre>
 <code>
 
