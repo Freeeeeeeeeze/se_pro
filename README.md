@@ -4,7 +4,7 @@
 ### 직접 가본곳 위주로 지도에 정리하여 일정짜기 쉽게 하기위하여 만들어보았습니다.
 ---
 # 환경
-<img src="https://img.shields.io/badge/Python 3.8-3776AB?style=for-the-badge&logo=Python&logoColor=white" width="120" height="30"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" width="120" height="30"/><img src="https://img.shields.io/badge/ubuntu 20.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" width="120" height="30"> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logocolor=white" width="80" height="25"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logocolor=white" width="120" height="30">
+<img src="https://img.shields.io/badge/Python 3.8-3776AB?style=for-the-badge&logo=Python&logoColor=white" width="80" height="25"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" width="80" height="25"/><img src="https://img.shields.io/badge/ubuntu 20.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" width="80" height="25"> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logocolor=white" width="80" height="25"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logocolor=white" width="80" height="25">
 
 
 <details>
