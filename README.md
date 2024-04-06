@@ -11,7 +11,10 @@
   <summary>과정</summary>
     <div markdown="1">
     <ul>
-      <li>테스트</li>
+      <li>4.6
+      ```python
+# 여기에 코드를 넣어주세요
+print("Hello, World!")</li>
     </ul>
   </div>
 </details>
