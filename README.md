@@ -17,9 +17,39 @@
         templates 폴더를 생성해주었다 이 폴더에 들어있는 html 파일이 웹 화면에 출력된다 (아마도)<br>그리고 이 생성된 폴더의 html 파일을 활용하기위해서는 se_pro/setting.py 파일의 코드를 수정해주어야한다
         <pre>
 <code>
-
+TEMPLATES = [
+    {
+        'BACKEND': 'django.template.backends.django.DjangoTemplates',
+        'DIRS': [],
+        'APP_DIRS': True,
+        'OPTIONS': {
+            'context_processors': [
+                'django.template.context_processors.debug',
+                'django.template.context_processors.request',
+                'django.contrib.auth.context_processors.auth',
+                'django.contrib.messages.context_processors.messages',
+            ],
+        },
+    },
+]
+# 위와 같은 코드를 아래와 같이 바꿔준다
+TEMPLATES = [
+    {
+        'BACKEND': 'django.template.backends.django.DjangoTemplates',
+        'DIRS': [os.path.join(BASE_DIR,'templates')],
+        'APP_DIRS': True,
+        'OPTIONS': {
+            'context_processors': [
+                'django.template.context_processors.debug',
+                'django.template.context_processors.request',
+                'django.contrib.auth.context_processors.auth',
+                'django.contrib.messages.context_processors.messages',
+            ],
+        },
+    },
+]
 </code>
-</pre>
+        </pre>
       </li>
     </ul>
   </div>
