@@ -9,5 +9,9 @@
 
 <details>
   <summary>과정</summary>
-  <!-- 테스트 -->
+    <div markdown="1">
+    <ul>
+      <li>테스트</li>
+    </ul>
+  </div>
 </details>
