@@ -5,3 +5,9 @@
 ---
 # 환경
 <img src="https://img.shields.io/badge/Python 3.8-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/ubuntu 20.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logocolor=white">
+
+
+<details>
+  <summary>과정</summary>
+  <!-- 테스트 -->
+</details>
