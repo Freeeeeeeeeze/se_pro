@@ -13,7 +13,6 @@
     <ul>
       <li>4.6
       ```python
-# 여기에 코드를 넣어주세요
 print("Hello, World!")</li>
     </ul>
   </div>
