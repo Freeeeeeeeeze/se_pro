@@ -49,7 +49,28 @@ TEMPLATES = [
 ]
 </code>
         </pre>
-        아낭ㅁ나
+        생성된 templates 폴더의 kakaomap.html 파일에는 카카오맵 api 활용 가이드라인을 따라한 아래와 같은 코드를 입력해주었다.
+        <code>
+          <html>
+<head>
+	<meta charset="utf-8"/>
+	<title>Kakao 지도 시작하기</title>
+</head>
+<body>
+	<div id="map" style="width:500px;height:400px;"></div>
+	<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=ab5ad010c7de341a97fc2148f6164f40"></script>
+	<script>
+		var container = document.getElementById('map');
+		var options = {
+			center: new kakao.maps.LatLng(33.450701, 126.570667),
+			level: 3
+		};
+
+		var map = new kakao.maps.Map(container, options);
+	</script>
+</body>
+</html>
+        </code>
       </li>
     </ul>
   </div>
