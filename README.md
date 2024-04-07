@@ -50,7 +50,8 @@ TEMPLATES = [
 </code>
         </pre>
         생성된 templates 폴더의 kakaomap.html 파일에는 카카오맵 api 활용 가이드라인을 따라한 아래와 같은 코드를 입력해주었다.
-        <code>
+	      <pre>
+		          <code>
           <html>
 <head>
 	<meta charset="utf-8"/>
@@ -70,7 +71,9 @@ TEMPLATES = [
 	</script>
 </body>
 </html>
-        </code>
+        </code>    
+	      </pre>
+
       </li>
     </ul>
   </div>
